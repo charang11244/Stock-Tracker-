@@ -1,0 +1,4 @@
+PROJECT: Stock Tracker — Inventory Management & Big Data Analytics
+PURPOSE: Monitor inventory, analyze sales, identify low stock, and produce business insights.
+STACK: Python, Streamlit, Pandas, Plotly, CSV.
+NOTE: Pandas powers the included dashboard. PySpark/Hadoop are optional advanced extensions.
