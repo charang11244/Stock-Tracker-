@@ -1,0 +1,121 @@
+Product_ID,Product_Name,Category,Quantity,Unit_Price,Units_Sold,Reorder_Level,Supplier,Last_Updated
+PRD-001,Laptop Pro 14,Electronics,42,125000,180,15,Northwind Tech,2026-11-11
+PRD-002,Wireless Mouse,Electronics,120,1800,390,25,Northwind Tech,2026-11-11
+PRD-003,Mechanical Keyboard,Electronics,68,4200,210,20,Northwind Tech,2026-11-11
+PRD-004,4K Monitor,Electronics,31,28000,95,12,Northwind Tech,2026-11-11
+PRD-005,USB-C Hub,Electronics,160,2600,420,30,Northwind Tech,2026-11-11
+PRD-006,Noise Cancelling Headset,Electronics,54,8600,180,18,Northwind Tech,2026-11-11
+PRD-007,SSD 1TB,Electronics,75,8200,260,22,Northwind Tech,2026-11-11
+PRD-008,Webcam 1080p,Electronics,80,5200,200,20,Northwind Tech,2026-11-11
+PRD-009,Graphics Tablet,Electronics,17,24000,46,10,Northwind Tech,2026-11-11
+PRD-010,Portable Speaker,Electronics,96,6800,300,25,Northwind Tech,2026-11-11
+PRD-011,Office Chair Ergonomic,Furniture,22,18000,75,10,Urban Living,2026-11-11
+PRD-012,Standing Desk,Furniture,13,42000,31,8,Urban Living,2026-11-11
+PRD-013,Bookshelf 5-Tier,Furniture,20,32000,58,12,Urban Living,2026-11-11
+PRD-014,Study Lamp,Furniture,150,2600,310,35,Urban Living,2026-11-11
+PRD-015,Storage Cabinet,Furniture,18,28000,48,10,Urban Living,2026-11-11
+PRD-016,Cotton Throw Blanket,Home Goods,130,2500,420,35,Harbor Mart,2026-11-11
+PRD-017,Smart Air Fryer,Home Goods,44,12000,120,15,Harbor Mart,2026-11-11
+PRD-018,Kitchen Mixer,Home Goods,57,9500,160,18,Harbor Mart,2026-11-11
+PRD-019,Vacuum Cleaner,Home Goods,25,18000,72,12,Harbor Mart,2026-11-11
+PRD-020,Slow Cooker,Home Goods,67,7200,210,20,Harbor Mart,2026-11-11
+PRD-021,Premium Shampoo,Beauty,145,850,420,40,Velvet Care,2026-11-11
+PRD-022,Hydrating Serum,Beauty,103,1500,330,25,Velvet Care,2026-11-11
+PRD-023,Satin Face Mask,Beauty,220,380,500,60,Velvet Care,2026-11-11
+PRD-024,Rosemary Body Lotion,Beauty,176,620,430,45,Velvet Care,2026-11-11
+PRD-025,Vitamin C Kit,Beauty,95,2100,280,25,Velvet Care,2026-11-11
+PRD-026,Leather Wallet,Apparel,85,3200,210,20,Blue Peak,2026-11-11
+PRD-027,Denim Jacket,Apparel,38,7200,110,18,Blue Peak,2026-11-11
+PRD-028,Cotton T-Shirt Pack,Apparel,260,1200,760,55,Blue Peak,2026-11-11
+PRD-029,Running Shoes,Apparel,49,6500,130,15,Blue Peak,2026-11-11
+PRD-030,Travel Backpack,Apparel,64,4500,175,20,Blue Peak,2026-11-11
+PRD-031,Resistance Bands,Sports,210,1200,540,60,Peak Motion,2026-11-11
+PRD-032,Yoga Mat,Sports,102,2200,280,30,Peak Motion,2026-11-11
+PRD-033,Bottle Shaker,Sports,180,1600,390,45,Peak Motion,2026-11-11
+PRD-034,Smartwatch Band,Sports,132,2200,305,35,Peak Motion,2026-11-11
+PRD-035,Exercise Bike,Sports,12,34000,32,8,Peak Motion,2026-11-11
+PRD-036,Office Stapler,Office Supplies,210,520,500,60,Paper Trail,2026-11-11
+PRD-037,Desk Organizer,Office Supplies,170,980,420,40,Paper Trail,2026-11-11
+PRD-038,Notebook Set,Office Supplies,290,280,650,70,Paper Trail,2026-11-11
+PRD-039,Wireless Printer,Office Supplies,26,22000,67,10,Paper Trail,2026-11-11
+PRD-040,Ink Cartridge,Office Supplies,155,2400,360,35,Paper Trail,2026-11-11
+PRD-041,Organic Rice,Grocery,410,120,980,90,Fresh Basket,2026-11-11
+PRD-042,Olive Oil,Grocery,120,700,290,35,Fresh Basket,2026-11-11
+PRD-043,Whole Grain Flour,Grocery,260,160,620,50,Fresh Basket,2026-11-11
+PRD-044,Canned Tomatoes,Grocery,420,180,870,90,Fresh Basket,2026-11-11
+PRD-045,Green Tea,Grocery,198,260,470,45,Fresh Basket,2026-11-11
+PRD-046,Kids Building Blocks,Toys,140,850,300,25,PlayWorks,2026-11-11
+PRD-047,Remote Control Car,Toys,52,4200,140,15,PlayWorks,2026-11-11
+PRD-048,Puzzle Board Game,Toys,118,1500,290,30,PlayWorks,2026-11-11
+PRD-049,Learning Tablet,Toys,29,18000,73,10,PlayWorks,2026-11-11
+PRD-050,Stuffed Plush Toy,Toys,200,950,450,55,PlayWorks,2026-11-11
+PRD-051,Car Air Freshener,Auto,490,420,850,110,DriveEase,2026-11-11
+PRD-052,Phone Mount,Auto,180,1200,420,40,DriveEase,2026-11-11
+PRD-053,Seat Cushion,Auto,224,1700,510,60,DriveEase,2026-11-11
+PRD-054,Tire Inflator,Auto,74,3900,172,20,DriveEase,2026-11-11
+PRD-055,Car Charger,Auto,208,1500,500,55,DriveEase,2026-11-11
+PRD-056,Science Fiction Novel,Books,310,560,720,80,PageTurner,2026-11-11
+PRD-057,Startup Playbook,Books,180,680,410,40,PageTurner,2026-11-11
+PRD-058,Poetry Collection,Books,266,420,510,65,PageTurner,2026-11-11
+PRD-059,Children Story Book,Books,330,350,710,75,PageTurner,2026-11-11
+PRD-060,Recipe Cookbook,Books,208,520,480,50,PageTurner,2026-11-11
+PRD-061,Wellness Protein Powder,Wellness,138,1800,360,35,Alive Labs,2026-11-11
+PRD-062,Detox Tea Kit,Wellness,144,1200,300,30,Alive Labs,2026-11-11
+PRD-063,Vitamin D Capsules,Wellness,200,900,460,45,Alive Labs,2026-11-11
+PRD-064,Stretch Band Set,Wellness,182,1600,390,40,Alive Labs,2026-11-11
+PRD-065,Herbal Sleep Aid,Wellness,90,1100,210,25,Alive Labs,2026-11-11
+PRD-066,Premium Blender,Home Goods,19,22000,55,10,Harbor Mart,2026-11-11
+PRD-067,Electric Kettle,Home Goods,72,3800,205,18,Harbor Mart,2026-11-11
+PRD-068,Air Purifier,Home Goods,34,22000,92,12,Harbor Mart,2026-11-11
+PRD-069,Wall Clock,Home Goods,170,1100,420,40,Harbor Mart,2026-11-11
+PRD-070,Throw Pillow Set,Home Goods,228,1500,520,50,Harbor Mart,2026-11-11
+PRD-071,Smart Thermostat,Electronics,28,36500,66,12,Northwind Tech,2026-11-11
+PRD-072,USB-C Cable Pack,Electronics,310,650,620,70,Northwind Tech,2026-11-11
+PRD-073,Wireless Earbuds,Electronics,59,4200,180,18,Northwind Tech,2026-11-11
+PRD-074,Portable SSD 2TB,Electronics,42,15000,105,15,Northwind Tech,2026-11-11
+PRD-075,Projector Mini,Electronics,11,42000,22,8,Northwind Tech,2026-11-11
+PRD-076,Dining Table Set,Furniture,14,56000,38,8,Urban Living,2026-11-11
+PRD-077,Accent Chair,Furniture,24,15000,74,10,Urban Living,2026-11-11
+PRD-078,Console Table,Furniture,27,19000,76,12,Urban Living,2026-11-11
+PRD-079,Bookshelf Light,Furniture,90,2200,200,20,Urban Living,2026-11-11
+PRD-080,Storage Bench,Furniture,41,12000,110,15,Urban Living,2026-11-11
+PRD-081,Face Cleanser,Beauty,190,720,430,50,Velvet Care,2026-11-11
+PRD-082,Anti-Aging Cream,Beauty,81,2600,240,20,Velvet Care,2026-11-11
+PRD-083,Makeup Brush Kit,Beauty,168,980,380,35,Velvet Care,2026-11-11
+PRD-084,Body Scrub Pack,Beauty,210,640,480,55,Velvet Care,2026-11-11
+PRD-085,Sun Protection SPF,Beauty,92,1800,260,22,Velvet Care,2026-11-11
+PRD-086,Crossbody Sling,Apparel,160,3000,420,35,Blue Peak,2026-11-11
+PRD-087,Summer Cap,Apparel,250,820,610,60,Blue Peak,2026-11-11
+PRD-088,Performance Tee,Apparel,295,980,680,65,Blue Peak,2026-11-11
+PRD-089,Trail Jacket,Apparel,55,8500,165,18,Blue Peak,2026-11-11
+PRD-090,Leather Belt,Apparel,210,2000,470,45,Blue Peak,2026-11-11
+PRD-091,Chest Press Machine,Sports,16,48000,37,8,Peak Motion,2026-11-11
+PRD-092,Jump Rope,Sports,265,680,610,60,Peak Motion,2026-11-11
+PRD-093,Yoga Block Set,Sports,166,980,390,35,Peak Motion,2026-11-11
+PRD-094,Training Gloves,Sports,174,1600,440,40,Peak Motion,2026-11-11
+PRD-095,Recovery Foam Roller,Sports,101,2200,290,30,Peak Motion,2026-11-11
+PRD-096,Sticky Notes Pack,Office Supplies,440,180,900,90,Paper Trail,2026-11-11
+PRD-097,Laser Pointer,Office Supplies,138,1200,300,25,Paper Trail,2026-11-11
+PRD-098,USB Drive 128GB,Office Supplies,198,1100,425,40,Paper Trail,2026-11-11
+PRD-099,Whiteboard Marker Set,Office Supplies,250,420,560,60,Paper Trail,2026-11-11
+PRD-100,Executive Pen Set,Office Supplies,188,950,390,35,Paper Trail,2026-11-11
+PRD-101,Cold Pressed Juice,Grocery,284,260,620,70,Fresh Basket,2026-11-11
+PRD-102,Organic Honey,Grocery,136,540,310,30,Fresh Basket,2026-11-11
+PRD-103,Coconut Water,Grocery,260,220,600,60,Fresh Basket,2026-11-11
+PRD-104,Whole Wheat Pasta,Grocery,410,190,840,90,Fresh Basket,2026-11-11
+PRD-105,Avocado Oil,Grocery,120,720,290,25,Fresh Basket,2026-11-11
+PRD-106,Magnetic Tiles,Toys,95,2500,220,20,PlayWorks,2026-11-11
+PRD-107,Mini Drone,Toys,34,17000,75,12,PlayWorks,2026-11-11
+PRD-108,Wooden Train Set,Toys,82,3600,200,22,PlayWorks,2026-11-11
+PRD-109,Science Kit,Toys,71,5800,180,18,PlayWorks,2026-11-11
+PRD-110,Art Paint Set,Toys,128,1200,330,25,PlayWorks,2026-11-11
+PRD-111,Windshield Cleaner,Auto,310,600,700,75,DriveEase,2026-11-11
+PRD-112,Dashboard Cam,Auto,28,18000,75,10,DriveEase,2026-11-11
+PRD-113,Car Seat Organizer,Auto,205,1400,450,50,DriveEase,2026-11-11
+PRD-114,Leather Steering Wheel Cover,Auto,162,2100,330,35,DriveEase,2026-11-11
+PRD-115,Travel Mug,Auto,235,950,510,55,DriveEase,2026-11-11
+PRD-116,History of Commerce,Books,150,620,330,35,PageTurner,2026-11-11
+PRD-117,Marketing Essentials,Books,122,890,280,25,PageTurner,2026-11-11
+PRD-118,Creative Writing Guide,Books,196,540,430,45,PageTurner,2026-11-11
+PRD-119,Healthy Living Journal,Books,275,330,610,65,PageTurner,2026-11-11
+PRD-120,Travel Photography Guide,Books,133,760,300,30,PageTurner,2026-11-11
